@@ -172,7 +172,7 @@ async function ImageEncryt_inner(
 
 }
 
-async function Roni_ImageEncryt(url, password, method, Fast_mode) {
+async function ImageEncryt(url, password, method, Fast_mode) {
     //password
     var pw_array = password.match(/.{1,2}/g);
     
