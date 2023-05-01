@@ -20,4 +20,5 @@ const encrytedImage = await ImageEncrypt('example.com/example_orginal.jpg', '634
 const decrytedImage = await ImageEncrypt('example.com/example_encryted.jpg', '63455326', 0 , 1);
 ```
 
-### commands
+### Live Demo
+Live Demo: [Click here](https://20220816.s3.ap-northeast-3.amazonaws.com/RONI-ImageEncryptionJS-Demo.html)
